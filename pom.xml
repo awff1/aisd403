@@ -13,6 +13,7 @@
         <module>BracketChecker</module>
         <module>DZHashMap</module>
         <module>DZTrees</module>
+        <module>ThreeSum</module>
     </modules>
 
     <properties>
